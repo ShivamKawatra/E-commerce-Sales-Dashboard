@@ -46,5 +46,3 @@ To analyze e-commerce sales data and build a visually interactive dashboard for 
 ## 👨‍💻 Author
 
 Shivam Kawatra
-
-![Dashboard](sales-dashboard.jpg)
